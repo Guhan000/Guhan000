@@ -1,5 +1,5 @@
 
-Hi there 👋 My name is Guhan S
+Hi there 👋 I'm Guhan S
 ========================
 
 Software Engineer | Student | Full Stack Developer
