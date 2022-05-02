@@ -10,9 +10,6 @@ I'm a Computer Science Engineering Student.I like to build cool stuffs!!
 * ✉️  You can contact me at [urs4guhan@gmail.com](mailto:urs4guhan@gmail.com)
 * 🧠  I'm learning MERN Stack, ReactNative
 
-<a href="https://www.twitter.com/__guhan_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/__guhan_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
