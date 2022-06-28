@@ -2,7 +2,7 @@
 Hi there 👋 I'm Guhan!
 ========================
 
-Software Engineer | Student | Full Stack Developer
+Student | Full Stack Developer
 --------------------------------------------------
 
 I'm a Computer Science Engineering Student.I like to build cool stuffs!!
