@@ -1,10 +1,10 @@
-### <div><span style="color: neon">Guhan</span>, tryin to connect the dots...</div>  
+### <div><i style="color:red">guhan</i>, tryin to connect the dots...</div>  
 
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+<div>
   
 <a href="https://github.com/Guhan000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
