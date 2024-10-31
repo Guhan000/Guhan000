@@ -1,20 +1,5 @@
-<div align="center">
-<img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" align="center" height="300" width="500" />
-</div>  
+### <div align="center">Guhan, tryin to connect the dots...</div>  
   
-
-### <div align="center">I'm Guhan, a full-stack web developer 👨‍💻 </div>  
-  
-
-- 🌱 I’m currently learning NextJs, AWS  
-  
-
-- ❓ Ask me about anything related to MERN stack and frontend related technologies  
-  
-
-- ⚡ Fun fact: I use light mode.  
-  
-
 <br/>  
 
 
@@ -66,10 +51,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://guhan.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>  
-
+  
 <a href="https://github.com/Guhan000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -81,20 +63,8 @@
 </a>
 <a href="https://linkedin.com/in/guhan-s-78b4821bb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@guhan27" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
 <br/>  
-
-
-## Github Stats  
-
-<div align="center">
-<a href="http://www.github.com/Guhan000"><img src="https://github-readme-stats.vercel.app/api?username=Guhan000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Guhan000's GitHub stats" /></a>
-
-<a href="http://www.github.com/Guhan000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guhan000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
